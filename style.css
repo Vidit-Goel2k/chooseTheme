@@ -14,16 +14,13 @@
     
 }
 
-#colors{
-    position: relative;
-}
-
 .buttons{
     width: 80px;
     height: 30px;
     border-radius: 15px;
     text-align: center;
     line-height: 30px;
+    border: solid black 4px;
 }
 
 #grey{
